@@ -47,7 +47,7 @@
 | 🐛 **Баг-репорты №1** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1PbgkMpScv3qym8zizDWa41hrQj592VImJYaZ7eWCYnM/edit?gid=1829411052#gid=1829411052) |
 | 🐛 **Баг-репорты №2** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1dCjF0dPSC3tdBJF1Ep7pDy9gLwH-5BIUiZT4ZrDEJG4/edit?gid=1676585724#gid=1676585724) |
 | 🐛 **Баг-репорты №3** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1GqBBIEW3VBT_EBx8UNVzC-kZvVNBJ_Hs4iVjQ6D7jOc/edit?gid=1323979144#gid=1323979144) |
-| 🔌 **Коллекция Postman** | [Посмотреть →](https://www.postman.com/supply-operator-73829969/workspace/my-workspace/collection/43133198-325ea5c0-70cf-41b6-b821-59ae5533d4ba?action=share&creator=43133198) |
+| 🔌 **Коллекция Postman** | [Посмотреть →](https://www.postman.com/anton-kov93tester/antonkovalev/request/43133198-304ee5c4-3c9d-494f-b4c4-e3beab010618/?action=share&creator=43133198&ctx=documentation) |
 | 📊 **Метрика трудозатрат на тестирование** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1gayR6BU-wR3cpsf0cx5PAc7vnfXZxVXV/edit?gid=1850896553#gid=1850896553) |
 | 📃 **Тестовые сценарии для приемочного тестирования** | [Посмотреть →](https://docs.google.com/document/d/1PcCSibcbDtU_vZ_QToY9j0vTMru6T8-9f7Sp-hIyTjQ/edit?tab=t.0) |
 | ⌨️ **SQL запросы** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1tH1Iv8TaAURNczJZ8yHSs0OpT50vZkPTrLGZr5OnAxo/edit?gid=0#gid=0) |
