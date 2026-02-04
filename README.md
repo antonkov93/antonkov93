@@ -43,8 +43,8 @@
 |--------------|--------|
 | 📝 **Чек-лист №1 (для учебного веб-приложения)** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1GqBBIEW3VBT_EBx8UNVzC-kZvVNBJ_Hs4iVjQ6D7jOc/edit?gid=0#gid=0) |
 | 📝 **Чек-лист №2 (для учебного Android-приложения)** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1K17mCpiLrAoNDUrZn_947dFnuFlR3V2Zta42y5k3Dlo/edit?gid=0#gid=0) |
-| 🧩 **Тест-кейсы №1** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1GqBBIEW3VBT_EBx8UNVzC-kZvVNBJ_Hs4iVjQ6D7jOc/edit?gid=960818568#gid=960818568) |
-| 🧩 **Тест-кейсы №2** | [Посмотреть →](https://docs.google.com/document/d/1Z6cVpqPOjDm3mnXWka7TB2pHxgQakbSifAQyYGo5W54/edit?tab=t.0#heading=h.h2dsd6gn3mx0) |
+| 🧩 **Тест-кейсы №1** | [Посмотреть →](https://docs.google.com/document/d/1Z6cVpqPOjDm3mnXWka7TB2pHxgQakbSifAQyYGo5W54/edit?tab=t.0#heading=h.h2dsd6gn3mx0) |
+| 🧩 **Тест-кейсы №2** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1GqBBIEW3VBT_EBx8UNVzC-kZvVNBJ_Hs4iVjQ6D7jOc/edit?gid=960818568#gid=960818568) |
 | 🐛 **Баг-репорты №1** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1PbgkMpScv3qym8zizDWa41hrQj592VImJYaZ7eWCYnM/edit?gid=1829411052#gid=1829411052) |
 | 🐛 **Баг-репорты №2** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1dCjF0dPSC3tdBJF1Ep7pDy9gLwH-5BIUiZT4ZrDEJG4/edit?gid=1676585724#gid=1676585724) |
 | 🐛 **Баг-репорты №3** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1GqBBIEW3VBT_EBx8UNVzC-kZvVNBJ_Hs4iVjQ6D7jOc/edit?gid=1323979144#gid=1323979144) |
