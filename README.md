@@ -39,19 +39,19 @@
 
 ### 📋 Примеры моих "Артефактов тестирования"
 
-| Тип документа | Ссылка |
-|--------------|--------|
-| 📝 **Чек-лист №1 (для учебного веб-приложения)** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1GqBBIEW3VBT_EBx8UNVzC-kZvVNBJ_Hs4iVjQ6D7jOc/edit?gid=0#gid=0) |
-| 📝 **Чек-лист №2 (для учебного Android-приложения)** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1K17mCpiLrAoNDUrZn_947dFnuFlR3V2Zta42y5k3Dlo/edit?gid=0#gid=0) |
-| 🧩 **Тест-кейсы №1** | [Посмотреть →](https://docs.google.com/document/d/1Z6cVpqPOjDm3mnXWka7TB2pHxgQakbSifAQyYGo5W54/edit?tab=t.0#heading=h.h2dsd6gn3mx0) |
-| 🧩 **Тест-кейсы №2** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1GqBBIEW3VBT_EBx8UNVzC-kZvVNBJ_Hs4iVjQ6D7jOc/edit?gid=960818568#gid=960818568) |
-| 🐛 **Баг-репорты №1** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1PbgkMpScv3qym8zizDWa41hrQj592VImJYaZ7eWCYnM/edit?gid=1338406650#gid=1338406650) |
-| 🐛 **Баг-репорты №2** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1dCjF0dPSC3tdBJF1Ep7pDy9gLwH-5BIUiZT4ZrDEJG4/edit?gid=1676585724#gid=1676585724) |
-| 🐛 **Баг-репорты №3** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1GqBBIEW3VBT_EBx8UNVzC-kZvVNBJ_Hs4iVjQ6D7jOc/edit?gid=1323979144#gid=1323979144) |
-| 🔌 **Коллекция Postman** | [Посмотреть →](https://www.postman.com/anton-kov93tester/antonkovalev/request/43133198-304ee5c4-3c9d-494f-b4c4-e3beab010618/?action=share&creator=43133198&ctx=documentation) |
-| ⌨️ **SQL запросы** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1tH1Iv8TaAURNczJZ8yHSs0OpT50vZkPTrLGZr5OnAxo/edit?gid=0#gid=0) |
-| 📊 **Метрика трудозатрат на тестирование** | [Посмотреть →](https://docs.google.com/spreadsheets/d/1gayR6BU-wR3cpsf0cx5PAc7vnfXZxVXV/edit?gid=1850896553#gid=1850896553) |
-| 📃 **Тестовые сценарии для приемочного тестирования** | [Посмотреть →](https://docs.google.com/document/d/1PcCSibcbDtU_vZ_QToY9j0vTMru6T8-9f7Sp-hIyTjQ/edit?tab=t.0) |
+| Тип документа | Описание | Ссылка |
+|--------------|----------|--------|
+| 📝 **Чек-лист №1** | Чек-лист для учебного веб-приложения | [Посмотреть →](https://docs.google.com/spreadsheets/d/1GqBBIEW3VBT_EBx8UNVzC-kZvVNBJ_Hs4iVjQ6D7jOc/edit?gid=0#gid=0) |
+| 📝 **Чек-лист №2** | Чек-лист для учебного Android-приложения | [Посмотреть →](https://docs.google.com/spreadsheets/d/1K17mCpiLrAoNDUrZn_947dFnuFlR3V2Zta42y5k3Dlo/edit?gid=0#gid=0) |
+| 🧩 **Тест-кейсы №1** | Тест-кейсы для GitHub | [Посмотреть →](https://docs.google.com/document/d/1Z6cVpqPOjDm3mnXWka7TB2pHxgQakbSifAQyYGo5W54/edit?tab=t.0#heading=h.h2dsd6gn3mx0) |
+| 🧩 **Тест-кейсы №2** | Тест-кейсы для учебного веб-приложения | [Посмотреть →](https://docs.google.com/spreadsheets/d/1GqBBIEW3VBT_EBx8UNVzC-kZvVNBJ_Hs4iVjQ6D7jOc/edit?gid=960818568#gid=960818568) |
+| 🐛 **Баг-репорты №1** | Баг-репорты написанные во время обучения по тестированию веб-приложений | [Посмотреть →](https://docs.google.com/spreadsheets/d/1PbgkMpScv3qym8zizDWa41hrQj592VImJYaZ7eWCYnM/edit?gid=1338406650#gid=1338406650) |
+| 🐛 **Баг-репорты №2** | Баг-репорты написанные во время обучения по тестированию мобильных приложений | [Посмотреть →](https://docs.google.com/spreadsheets/d/1dCjF0dPSC3tdBJF1Ep7pDy9gLwH-5BIUiZT4ZrDEJG4/edit?gid=1676585724#gid=1676585724) |
+| 🐛 **Баг-репорты №3** | Баг-репорты для учебного веб-приложения | [Посмотреть →](https://docs.google.com/spreadsheets/d/1GqBBIEW3VBT_EBx8UNVzC-kZvVNBJ_Hs4iVjQ6D7jOc/edit?gid=1323979144#gid=1323979144) |
+| 🔌 **Коллекция Postman** | Пример моей коллекции запросов для тестирования учебного веб-приложения | [Посмотреть →](https://www.postman.com/anton-kov93tester/antonkovalev/request/43133198-304ee5c4-3c9d-494f-b4c4-e3beab010618/?action=share&creator=43133198&ctx=documentation) |
+| ⌨️ **SQL запросы** | Пример составленных SQL запросов | [Посмотреть →](https://docs.google.com/spreadsheets/d/1tH1Iv8TaAURNczJZ8yHSs0OpT50vZkPTrLGZr5OnAxo/edit?gid=0#gid=0) |
+| 📊 **Метрика трудозатрат на тестирование** | Оценка трудозатрат на тестирование страницы веб-приложения | [Посмотреть →](https://docs.google.com/spreadsheets/d/1gayR6BU-wR3cpsf0cx5PAc7vnfXZxVXV/edit?gid=1850896553#gid=1850896553) |
+| 📃 **Тестовые сценарии для приемочного тестирования** | Сценарии приемочного тестирования на ТЗ разрабатываемого веб-приложения | [Посмотреть →](https://docs.google.com/document/d/1PcCSibcbDtU_vZ_QToY9j0vTMru6T8-9f7Sp-hIyTjQ/edit?tab=t.0) |
 
 ---
 
