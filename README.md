@@ -32,6 +32,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Yougile](https://img.shields.io/badge/Yougile-6C63FF?style=for-the-badge&logo=trello&logoColor=white)
+![TestIT](https://img.shields.io/badge/TestIT-4B0082?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 ---
 
@@ -43,8 +44,8 @@
 |--------------|--------|----------|
 | 📝 **Чек-лист №1** | Чек-лист для учебного веб-приложения | [Посмотреть →](https://docs.google.com/spreadsheets/d/1GqBBIEW3VBT_EBx8UNVzC-kZvVNBJ_Hs4iVjQ6D7jOc/edit?gid=0#gid=0) |
 | 📝 **Чек-лист №2** | Чек-лист для учебного мобильного приложения | [Посмотреть →](https://docs.google.com/spreadsheets/d/1K17mCpiLrAoNDUrZn_947dFnuFlR3V2Zta42y5k3Dlo/edit?gid=0#gid=0) |
-| 🧩 **Тест-кейсы №1** | Тест-кейсы для GitHub | [Посмотреть →](https://docs.google.com/document/d/1Z6cVpqPOjDm3mnXWka7TB2pHxgQakbSifAQyYGo5W54/edit?tab=t.0#heading=h.h2dsd6gn3mx0) |
-| 🧩 **Тест-кейсы №2** | Тест-кейсы для учебного веб-приложения | [Посмотреть →](https://docs.google.com/spreadsheets/d/1GqBBIEW3VBT_EBx8UNVzC-kZvVNBJ_Hs4iVjQ6D7jOc/edit?gid=960818568#gid=960818568) |
+| 🧩 **Тест-кейсы №1** | Тест-кейсы для GitHub заведенные в TestIT | [Посмотреть →](https://docs.google.com/document/d/1Z6cVpqPOjDm3mnXWka7TB2pHxgQakbSifAQyYGo5W54/edit?tab=t.0#heading=h.h2dsd6gn3mx0) |
+| 🧩 **Тест-кейсы №2** | Тест-кейсы для учебного веб-приложения заведенные в TestIT | [Посмотреть →](https://drive.google.com/file/d/1CYywrVhuBuKwfiPtI9u6fYjUz8Gqx6fu/view?usp=sharing) |
 | 🐛 **Баг-репорты №1** | Баг-репорты написанные во время обучения по тестированию веб-приложений | [Посмотреть →](https://docs.google.com/spreadsheets/d/1PbgkMpScv3qym8zizDWa41hrQj592VImJYaZ7eWCYnM/edit?gid=1338406650#gid=1338406650) |
 | 🐛 **Баг-репорты №2** | Баг-репорты написанные во время обучения по тестированию мобильных приложений | [Посмотреть →](https://docs.google.com/spreadsheets/d/1dCjF0dPSC3tdBJF1Ep7pDy9gLwH-5BIUiZT4ZrDEJG4/edit?gid=1676585724#gid=1676585724) |
 | 🐛 **Баг-репорты №3** | Баг-репорты для учебного веб-приложения | [Посмотреть →](https://docs.google.com/spreadsheets/d/1GqBBIEW3VBT_EBx8UNVzC-kZvVNBJ_Hs4iVjQ6D7jOc/edit?gid=1323979144#gid=1323979144) |
