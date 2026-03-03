@@ -71,7 +71,7 @@
 
 **Технологии:** Python, Pytest, Selenium, Page Object Model, Allure Report, Git, flake8, Chrome DevTools
 
-🔗 **[Перейти к репозиторию на GitHub →](https://github.com/antonkov93/Automated_tests_for_the_pizzeria_website.git)**
+[![Перейти к репозиторию](https://img.shields.io/badge/Перейти_к_репозиторию-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antonkov93/Automated_tests_for_the_pizzeria_website.git)
 
 ---
 
