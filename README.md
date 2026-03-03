@@ -59,7 +59,7 @@
 
 ## 🚀 Мои проекты
 
-### 1. 🍕 Автоматизированное тестирование [веб-приложения пиццерии](https://pizzeria.skillbox.cc/)
+### 1. 🍕 Автоматизированное тестирование веб-приложения пиццерии [(ССЫЛКА)](https://pizzeria.skillbox.cc/)
 
 **Выполненные задачи:**
 - 📝 Написаны [тестовые сценарии](https://docs.google.com/document/d/1-_aV9O_LzD2yqtlq3fRJMLHrGe12YJ5cPPOMv59_gy0/edit?tab=t.0#heading=h.23nejaknpbek) для основного пользовательского флоу
@@ -71,11 +71,11 @@
 
 **Технологии:** Python, Pytest, Selenium, Page Object Model, Allure Report, Git, flake8, Chrome DevTools
 
-[![Перейти к репозиторию](https://img.shields.io/badge/Перейти_к_репозиторию-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antonkov93/Automated_tests_for_the_pizzeria_website.git)
+### 🔗 [Перейти к репозиторию на GitHub →](https://github.com/antonkov93/Automated_tests_for_the_pizzeria_website.git)
 
 ---
 
-### 2. 🛒 Тестирование [веб-приложения интернет-магазина](https://intershop4.skillbox.ru/)
+### 2. 🛒 Тестирование веб-приложения интернет-магазина [(ССЫЛКА)](https://intershop4.skillbox.ru/)
 
 **Выполненные задачи:**
 - 📋 Проведен анализ и тестирование требований
@@ -90,11 +90,11 @@
 
 **Технологии:** Postman, Swagger, SQL, DBeaver, Chrome DevTools, Figma, Yougile
 
-🔗 **[Перейти к проекту в Yougile →](https://ru.yougile.com/board/0rap8dhnzuty)**
+### 🔗 [Перейти к проекту в Yougile →](https://ru.yougile.com/board/0rap8dhnzuty)
 
 ---
 
-### 3. 🎬 Тестирование [мобильного приложения для поиска фильмов](https://drive.google.com/file/d/1jkmNNSFC39f_jmqDbSAShkvtyBWpS6Bh/view?usp=sharing)
+### 3. 🎬 Тестирование мобильного приложения для поиска фильмов [(ССЫЛКА)](https://drive.google.com/file/d/1jkmNNSFC39f_jmqDbSAShkvtyBWpS6Bh/view?usp=sharing)
 
 **Выполненные задачи:**
 - 📋 Проведен анализ требований, разработаны тестовые сценарии
@@ -108,7 +108,7 @@
 
 **Технологии:** Android Studio, Charles Proxy, Yougile
 
-🔗 **[Перейти к проекту в Yougile →](https://ru.yougile.com/board/5z2h7hf9i9te)**
+### 🔗 [Перейти к проекту в Yougile →](https://ru.yougile.com/board/5z2h7hf9i9te)
 
 ---
 
