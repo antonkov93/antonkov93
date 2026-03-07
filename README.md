@@ -11,9 +11,6 @@
 ### Направления тестирования
 🌐 **Тестирование веб-приложений**  📱 **Тестирование мобильных приложений**  🤖 **Автоматизированное тестирование**
 
-### Виды тестирования
-● Тестирование требований ● Функциональное ● Регрессионное ● API ● UI ● Кроссбраузерное ● Кроссплатформенное ● Тестирование безопасности ● Приемочное тестирование 
-
 ### Технологический стек
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
@@ -59,6 +56,8 @@
 
 ### 1. 🍕 Автоматизированное тестирование веб-приложения пиццерии [(ССЫЛКА)](https://pizzeria.skillbox.cc/)
 
+### 🔗 [Перейти к репозиторию на GitHub →](https://github.com/antonkov93/Automated_tests_for_the_pizzeria_website.git)
+
 **Выполненные задачи:**
 - 📝 Написаны [тестовые сценарии](https://docs.google.com/document/d/1-_aV9O_LzD2yqtlq3fRJMLHrGe12YJ5cPPOMv59_gy0/edit?tab=t.0#heading=h.23nejaknpbek) для основного пользовательского флоу
 - 🤖 Разработаны 24 автотеста на Python с использованием Pytest и Selenium
@@ -69,11 +68,11 @@
 
 **Технологии:** Python, Pytest, Selenium, Page Object Model, Allure Report, Git, flake8, Chrome DevTools
 
-### 🔗 [Перейти к репозиторию на GitHub →](https://github.com/antonkov93/Automated_tests_for_the_pizzeria_website.git)
-
 ---
 
 ### 2. 🛒 Тестирование веб-приложения интернет-магазина [(ССЫЛКА)](https://intershop4.skillbox.ru/)
+
+### 🔗 [Перейти к проекту в Yougile →](https://ru.yougile.com/board/0rap8dhnzuty)
 
 **Выполненные задачи:**
 - 📋 Проведен анализ и тестирование требований
@@ -88,11 +87,11 @@
 
 **Технологии:** Postman, Swagger, SQL, DBeaver, Chrome DevTools, Figma, Yougile
 
-### 🔗 [Перейти к проекту в Yougile →](https://ru.yougile.com/board/0rap8dhnzuty)
-
 ---
 
 ### 3. 🎬 Тестирование мобильного приложения для поиска фильмов [(ССЫЛКА)](https://drive.google.com/file/d/1jkmNNSFC39f_jmqDbSAShkvtyBWpS6Bh/view?usp=sharing)
+
+### 🔗 [Перейти к проекту в Yougile →](https://ru.yougile.com/board/5z2h7hf9i9te)
 
 **Выполненные задачи:**
 - 📋 Проведен анализ требований, разработаны тестовые сценарии
@@ -105,8 +104,6 @@
 - ✅ Выявлено и задокументировано в Yougile 39 дефектов: из них 12 высокоприоритетных, влияющих на пользовательский опыт
 
 **Технологии:** Android Studio, Charles Proxy, Yougile
-
-### 🔗 [Перейти к проекту в Yougile →](https://ru.yougile.com/board/5z2h7hf9i9te)
 
 ---
 
