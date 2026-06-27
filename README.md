@@ -40,7 +40,7 @@
 | Тип документа | Описание | Ссылка |
 |--------------|--------|----------|
 | 📝 **Резолюция QA №1** | Пример резолюции QA по тестированию фичи на стажировке (без нарушения NDA) | [Посмотреть →](https://docs.google.com/document/d/18u9vK4DvUBmkPvLc96iUgjk-j3OebQFN4z12di6tcFc/edit?tab=t.0) |
-| 📝 **Резолюция QA №2** | Пример резолюции QA по тестированию фичи на стажировке (без нарушения NDA) | [Посмотреть →](https://docs.google.com/document/d/1jF-D-vjNq_EP124WzyEH66vlXxn_Vf9VNDZGAVcif8U/edit?tab=t.0) |
+| 📝 **Резолюция QA №2** | Пример резолюции QA по тестированию фичи на стажировке (без нарушения NDA) | [Посмотреть →](https://docs.google.com/document/d/1jF-D-vjNq_EP124WzyEH66vlXxn_Vf9VNDZGAVcif8U/edit?usp=sharing) |
 | 📝 **Чек-лист №1** | Чек-лист для [учебного веб-приложения](https://intern.demoshopping.ru/) | [Посмотреть →](https://docs.google.com/spreadsheets/d/1GqBBIEW3VBT_EBx8UNVzC-kZvVNBJ_Hs4iVjQ6D7jOc/edit?gid=0#gid=0) |
 | 📝 **Чек-лист №2** | Чек-лист для [учебного мобильного приложения](https://drive.google.com/file/d/1S8JfMFcZdJczRUAAM-lOOE8is-nWVgzw/view?usp=sharing) | [Посмотреть →](https://docs.google.com/spreadsheets/d/1K17mCpiLrAoNDUrZn_947dFnuFlR3V2Zta42y5k3Dlo/edit?gid=0#gid=0) |
 | 🧩 **Тест-кейсы №1** | Тест-кейсы для [GitHub](https://github.com/) заведенные в TestIT | [Посмотреть →](https://drive.google.com/file/d/11Hm45K1guN8fbOSGVlDd6IivND76pgYC/view?usp=sharing) |
